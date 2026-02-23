@@ -1,0 +1,9 @@
+{
+  "name": "Focus2 – Distraction Free Study Platform",
+  "description": "A production-ready, distraction-free educational video streaming platform for serious students. Features AI personalization, custom video player, and study analytics.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
